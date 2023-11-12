@@ -1,0 +1,19 @@
+Type,SubType,Question
+Full Name,Question,What is your full name?
+Contact Information,"Name, etc",What is your primary contact number?; What is your alternate contact number?; What is your email address?
+Residential Address,"Address, etc","What is your residential address?; Do you have a permanent address? If yes, please provide."
+Occupation,Occupation,What is your current occupation?
+Name of Organization (if applicable),Organization Name,"If you are affiliated with an organization, what is the name of the organization?"
+Role or Position in the Organization (if applicable),Position,What is your role or position within the organization?
+Relevant Skills or Qualifications,"Skills, Qualifications",Do you have any skills or qualifications that are relevant to the purpose of this grant?
+Involvement or Relationship with the Project,"Involvement, Relationship",How are you involved or related to the project that this grant is funding?
+Age,"Age, Age Range","What is your age?; Please select the age range that applies to you (e.g., 18-24, 25-34, 35-44, etc.)"
+Gender,"Gender, Gender Identity",What is your gender?; Please select the gender identity that best describes you.
+Ethnicity,"Ethnicity, Race",What is your ethnicity?; Please select the ethnic or racial identity that best describes you.
+Education,Education Level,What is your highest level of education?; Please indicate the highest degree or level of school you have completed.
+Income level,"Income, Income Range",What is your household's annual income?; Please select your income range from the following options.
+Employment Status,Employment Status,"What is your current employment status?; Please select from the following options: Employed, Unemployed, Retired, Student, etc."
+Disability Status,"Disability, Impairment",Do you have any disabilities?; Please indicate if you live with a disability or impairment.
+Geographic Location,Location,"Where do you currently reside? (City, State, ZIP Code); Please provide your current location of residence."
+Housing Status,Housing Situation,"What is your current housing situation?; Please select from the following options: Own a home, Rent, Public housing, Homeless, etc."
+Veteran Status,Veteran Status,Are you a veteran of the U.S. Armed Forces?

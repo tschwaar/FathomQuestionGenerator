@@ -1,0 +1,205 @@
+Domain,Stakeholder,Metric Area,Question Type,Question,Answer Options
+ Funding Organisation , Grant Recipients, Funding Impact , Text response, Can you describe in your own words the impact of the funding you received from our organization?,
+ Funding Organisation , Grant Recipients, Funding Impact , Numerical, How much funding have you received from our organization? ,
+ Funding Organisation , Grant Recipients, Funding Impact , Single-select, How would you rate the impact of the funding you received from our organization?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Funding Organisation , Grant Recipients, Funding Impact , Yes or no, Have you received funding from our organization?," Yes, No"
+ Funding Organisation , Grant Recipients, Funding Impact , Date, When did you first receive funding from our organization? ,
+ Funding Organisation , Grant Recipients, Funding Impact , Sliding scale," On a scale of 1 to 10, how would you rate the importance of the funding you received from our organization for your project or program?", 1-10 
+ Funding Organisation , Grant Recipients, Application Process, Text response, Can you describe in your own words your experience with our grant application process?,
+ Funding Organisation , Grant Recipients, Application Process, Numerical, How many times have you applied for a grant from our organization?,
+ Funding Organisation , Grant Recipients, Application Process, Single-select, How would you rate your experience with our grant application process?," Very poor, Poor, Average, Good, Excellent"
+ Funding Organisation , Grant Recipients, Application Process, Yes or no, Have you applied for a grant from our organization?," Yes, No"
+ Funding Organisation , Grant Recipients, Application Process, Date, When did you first apply for a grant from our organization?,
+ Funding Organisation , Grant Recipients, Application Process, Sliding scale," On a scale of 1 to 10, how would you rate the ease of our grant application process?", 1-10 
+ Funding Organisation , Grant Recipients, Grant Management, Text response, Can you describe in your own words your experience with our grant management process? ,
+ Funding Organisation , Grant Recipients, Grant Management, Numerical, How many grants have you managed from our organization?,
+ Funding Organisation , Grant Recipients, Grant Management, Single-select, How would you rate your experience with our grant management process? ," Very poor, Poor, Average, Good, Excellent"
+ Funding Organisation , Grant Recipients, Grant Management, Yes or no, Have you managed a grant from our organization?," Yes, No"
+ Funding Organisation , Grant Recipients, Grant Management, Date, When did you first start managing a grant from our organization?,
+ Funding Organisation , Grant Recipients, Grant Management, Sliding scale," On a scale of 1 to 10, how would you rate the efficiency of our grant management process? ", 1-10 
+ Sport Governing Body, Athletes, Program Experience , Text response , Can you describe in your own words your experience with our sports program?,
+ Sport Governing Body, Athletes, Program Experience , Numerical , How many sports programs have you participated in with our organization?,
+ Sport Governing Body, Athletes, Program Experience , Single-select , How would you rate your experience with our sports program?," Very poor, Poor, Average, Good, Excellent "
+ Sport Governing Body, Athletes, Program Experience , Yes or no , Have you participated in a sports program with our organization?," Yes, No"
+ Sport Governing Body, Athletes, Program Experience , Date, When did you first start participating in our sports program?,
+ Sport Governing Body, Athletes, Program Experience , Sliding scale ," On a scale of 1 to 10, how would you rate the enjoyment of our sports program? ", 1-10
+ Sport Governing Body, Athletes, Coach Performance, Text response , Can you describe in your own words your experience with our coaches?,
+ Sport Governing Body, Athletes, Coach Performance, Numerical , How many coaches have you interacted with in our organization? ,
+ Sport Governing Body, Athletes, Coach Performance, Single-select , How would you rate the performance of our coaches? ," Very poor, Poor, Average, Good, Excellent "
+ Sport Governing Body, Athletes, Coach Performance, Yes or no , Have you interacted with a coach from our organization?," Yes, No"
+ Sport Governing Body, Athletes, Coach Performance, Date, When did you first start interacting with a coach from our organization?,
+ Sport Governing Body, Athletes, Coach Performance, Sliding scale ," On a scale of 1 to 10, how would you rate the effectiveness of our coaches?", 1-10
+ Sport Governing Body, Athletes, Community Impact, Text response , Can you describe in your own words any impact our organization has had on your community?,
+ Sport Governing Body, Athletes, Community Impact, Numerical , How many community events or initiatives has our organization been involved in?,
+ Sport Governing Body, Athletes, Community Impact, Single-select , How would you rate the impact of our organization on your community?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Sport Governing Body, Athletes, Community Impact, Yes or no , Has our organization been involved in any community events or initiatives? ," Yes, No"
+ Sport Governing Body, Athletes, Community Impact, Date, When did our organization first start getting involved in community events or initiatives? ,
+ Sport Governing Body, Athletes, Community Impact, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's involvement in the community?", 1-10
+ Small Delivery Organisation, Participants, Skill Development, Text response , Can you describe in your own words how our organization has helped in your skill development?,
+ Small Delivery Organisation, Participants, Skill Development, Numerical , How many skills related to our organization's activities have you developed? ,
+ Small Delivery Organisation, Participants, Skill Development, Single-select , How would you rate the impact of our organization on your skill development?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Small Delivery Organisation, Participants, Skill Development, Yes or no , Has participating in our organization's activities contributed to your skill development? ," Yes, No"
+ Small Delivery Organisation, Participants, Skill Development, Date, When did you first start developing skills through our organization's activities?,
+ Small Delivery Organisation, Participants, Skill Development, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's activities for your skill development? ", 1-10
+ Small Delivery Organisation, Participants, Community Engagement, Text response , Can you describe in your own words how our organization has helped in your community engagement? ,
+ Small Delivery Organisation, Participants, Community Engagement, Numerical , How many community events related to our organization have you participated in?,
+ Small Delivery Organisation, Participants, Community Engagement, Single-select , How would you rate the impact of our organization on your community engagement?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Small Delivery Organisation, Participants, Community Engagement, Yes or no , Has participating in our organization's activities contributed to your community engagement?," Yes, No"
+ Small Delivery Organisation, Participants, Community Engagement, Date, When did you first start engaging with the community through our organization's activities?,
+ Small Delivery Organisation, Participants, Community Engagement, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's activities for your community engagement?", 1-10
+ Small Delivery Organisation, Participants, Personal Growth , Text response , Can you describe in your own words how our organization has helped in your personal growth?,
+ Small Delivery Organisation, Participants, Personal Growth , Numerical , How many personal growth opportunities related to our organization have you participated in?,
+ Small Delivery Organisation, Participants, Personal Growth , Single-select , How would you rate the impact of our organization on your personal growth?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Small Delivery Organisation, Participants, Personal Growth , Yes or no , Has participating in our organization's activities contributed to your personal growth?," Yes, No"
+ Small Delivery Organisation, Participants, Personal Growth , Date, When did you first start experiencing personal growth through our organization's activities?,
+ Small Delivery Organisation, Participants, Personal Growth , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's activities for your personal growth?", 1-10
+ Large Delivery Organisation, Program Beneficiaries , Program Impact, Text response , Can you describe in your own words the impact of our programs on you or your community?,
+ Large Delivery Organisation, Program Beneficiaries , Program Impact, Numerical , How many programs provided by our organization have you participated in?,
+ Large Delivery Organisation, Program Beneficiaries , Program Impact, Single-select , How would you rate the impact of our organization's programs on you or your community?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Large Delivery Organisation, Program Beneficiaries , Program Impact, Yes or no , Have you observed any impact on you or your community as a result of our organization's programs?," Yes, No"
+ Large Delivery Organisation, Program Beneficiaries , Program Impact, Date, When did you first start benefiting from our organization's programs? ,
+ Large Delivery Organisation, Program Beneficiaries , Program Impact, Sliding scale ," On a scale of 1 to 10, how would you rate the effectiveness of our organization's programs in impacting you or your community? ", 1-10
+ Large Delivery Organisation, Program Beneficiaries , Resource Utilization, Text response , Can you describe in your own words how you have utilized the resources provided by our organization?,
+ Large Delivery Organisation, Program Beneficiaries , Resource Utilization, Numerical ," How many resources (like workshops, training sessions, etc.) provided by our organization have you utilized?",
+ Large Delivery Organisation, Program Beneficiaries , Resource Utilization, Single-select , How would you rate the usefulness of the resources provided by our organization?," Not at all useful, Slightly useful, Moderately useful, Very useful, Extremely useful "
+ Large Delivery Organisation, Program Beneficiaries , Resource Utilization, Yes or no , Have the resources provided by our organization been useful to you?," Yes, No"
+ Large Delivery Organisation, Program Beneficiaries , Resource Utilization, Date, When did you first start utilizing the resources provided by our organization?,
+ Large Delivery Organisation, Program Beneficiaries , Resource Utilization, Sliding scale ," On a scale of 1 to 10, how would you rate the usefulness of the resources provided by our organization?", 1-10
+ Large Delivery Organisation, Program Beneficiaries , Community Change, Text response , Can you describe in your own words any changes in your community as a result of our organization's programs?,
+ Large Delivery Organisation, Program Beneficiaries , Community Change, Numerical , How many community changes have you observed as a result of our organization's programs?,
+ Large Delivery Organisation, Program Beneficiaries , Community Change, Single-select , How would you rate the impact of our organization's programs on community change?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Large Delivery Organisation, Program Beneficiaries , Community Change, Yes or no , Have you observed any changes in your community as a result of our organization's programs?," Yes, No"
+ Large Delivery Organisation, Program Beneficiaries , Community Change, Date, When did you first start observing community changes as a result of our organization's programs?,
+ Large Delivery Organisation, Program Beneficiaries , Community Change, Sliding scale ," On a scale of 1 to 10, how would you rate the effectiveness of our organization's programs in bringing about community change? ", 1-10
+ Personal or Professional Development Org, Learners, Skill Acquisition, Text response , Can you describe in your own words how our organization has helped in your skill acquisition? ,
+ Personal or Professional Development Org, Learners, Skill Acquisition, Numerical , How many new skills have you acquired through our organization's programs? ,
+ Personal or Professional Development Org, Learners, Skill Acquisition, Single-select , How would you rate the impact of our organization on your skill acquisition?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Personal or Professional Development Org, Learners, Skill Acquisition, Yes or no , Has participating in our organization's programs contributed to your skill acquisition?," Yes, No"
+ Personal or Professional Development Org, Learners, Skill Acquisition, Date, When did you first start acquiring new skills through our organization's programs?,
+ Personal or Professional Development Org, Learners, Skill Acquisition, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's programs for your skill acquisition?", 1-10
+ Personal or Professional Development Org, Learners, Career Advancement, Text response , Can you describe in your own words how our organization has helped in your career advancement? ,
+ Personal or Professional Development Org, Learners, Career Advancement, Numerical , How many career advancement opportunities have you had as a result of our organization's programs?,
+ Personal or Professional Development Org, Learners, Career Advancement, Single-select , How would you rate the impact of our organization on your career advancement?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Personal or Professional Development Org, Learners, Career Advancement, Yes or no , Has participating in our organization's programs contributed to your career advancement?," Yes, No"
+ Personal or Professional Development Org, Learners, Career Advancement, Date, When did you first start experiencing career advancement as a result of our organization's programs? ,
+ Personal or Professional Development Org, Learners, Career Advancement, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's programs for your career advancement?", 1-10
+ Personal or Professional Development Org, Learners, Personal Development, Text response , Can you describe in your own words how our organization has helped in your personal development?,
+ Personal or Professional Development Org, Learners, Personal Development, Numerical , How many personal development opportunities have you had as a result of our organization's programs? ,
+ Personal or Professional Development Org, Learners, Personal Development, Single-select , How would you rate the impact of our organization on your personal development? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Personal or Professional Development Org, Learners, Personal Development, Yes or no , Has participating in our organization's programs contributed to your personal development?," Yes, No"
+ Personal or Professional Development Org, Learners, Personal Development, Date, When did you first start experiencing personal development as a result of our organization's programs?,
+ Personal or Professional Development Org, Learners, Personal Development, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our organization's programs for your personal development?", 1-10
+ Overarching Development Organisation, Program Beneficiaries , Program Impact, Text response , Can you describe in your own words the impact of our programs on you or your community?,
+ Overarching Development Organisation, Program Beneficiaries , Program Impact, Numerical , How many programs provided by our organization have you participated in? ,
+ Overarching Development Organisation, Program Beneficiaries , Program Impact, Single-select , How would you rate the impact of our organization's programs on you or your community?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Overarching Development Organisation, Program Beneficiaries , Program Impact, Yes or no , Have you observed any impact on you or your community as a result of our organization's programs? ," Yes, No"
+ Overarching Development Organisation, Program Beneficiaries , Program Impact, Date, When did you first start benefiting from our organization's programs?,
+ Overarching Development Organisation, Program Beneficiaries , Program Impact, Sliding scale ," On a scale of 1 to 10, how would you rate the effectiveness of our organization's programs in impacting you or your community?", 1-10
+ Overarching Development Organisation, Program Beneficiaries , Resource Utilization, Text response , Can you describe in your own words how you have utilized the resources provided by our organization? ,
+ Overarching Development Organisation, Program Beneficiaries , Resource Utilization, Numerical ," How many resources (like workshops, training sessions, etc.) provided by our organization have you utilized? ",
+ Overarching Development Organisation, Program Beneficiaries , Resource Utilization, Single-select , How would you rate the usefulness of the resources provided by our organization?," Not at all useful, Slightly useful, Moderately useful, Very useful, Extremely useful "
+ Overarching Development Organisation, Program Beneficiaries , Resource Utilization, Yes or no , Have the resources provided by our organization been useful to you?," Yes, No"
+ Overarching Development Organisation, Program Beneficiaries , Resource Utilization, Date, When did you first start utilizing the resources provided by our organization?,
+ Overarching Development Organisation, Program Beneficiaries , Resource Utilization, Sliding scale ," On a scale of 1 to 10, how would you rate the usefulness of the resources provided by our organization?", 1-10
+ Overarching Development Organisation, Program Beneficiaries , Community Change, Text response , Can you describe in your own words any changes in your community as a result of our organization's programs?,
+ Overarching Development Organisation, Program Beneficiaries , Community Change, Numerical , How many community changes have you observed as a result of our organization's programs?,
+ Overarching Development Organisation, Program Beneficiaries , Community Change, Single-select , How would you rate the impact of our organization's programs on community change? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Overarching Development Organisation, Program Beneficiaries , Community Change, Yes or no , Have you observed any changes in your community as a result of our organization's programs?," Yes, No"
+ Overarching Development Organisation, Program Beneficiaries , Community Change, Date, When did you first start observing community changes as a result of our organization's programs?,
+ Overarching Development Organisation, Program Beneficiaries , Community Change, Sliding scale ," On a scale of 1 to 10, how would you rate the effectiveness of our organization's programs in bringing about community change?", 1-10
+" Coach, Teacher, or Volunteer", Students/Participants, Skill Development, Text response , Can you describe in your own words how the coaching/teaching has helped in your skill development?,
+" Coach, Teacher, or Volunteer", Students/Participants, Skill Development, Numerical , How many new skills have you developed through the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Skill Development, Single-select , How would you rate the impact of the coaching/teaching on your skill development?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+" Coach, Teacher, or Volunteer", Students/Participants, Skill Development, Yes or no , Has the coaching/teaching contributed to your skill development? ," Yes, No"
+" Coach, Teacher, or Volunteer", Students/Participants, Skill Development, Date, When did you first start developing new skills through the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Skill Development, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of the coaching/teaching for your skill development? ", 1-10
+" Coach, Teacher, or Volunteer", Students/Participants, Knowledge Acquisition , Text response , Can you describe in your own words how the coaching/teaching has helped in your knowledge acquisition?,
+" Coach, Teacher, or Volunteer", Students/Participants, Knowledge Acquisition , Numerical , How much new knowledge have you acquired through the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Knowledge Acquisition , Single-select , How would you rate the impact of the coaching/teaching on your knowledge acquisition? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+" Coach, Teacher, or Volunteer", Students/Participants, Knowledge Acquisition , Yes or no , Has the coaching/teaching contributed to your knowledge acquisition? ," Yes, No"
+" Coach, Teacher, or Volunteer", Students/Participants, Knowledge Acquisition , Date, When did you first start acquiring new knowledge through the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Knowledge Acquisition , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of the coaching/teaching for your knowledge acquisition? ", 1-10
+" Coach, Teacher, or Volunteer", Students/Participants, Attitude Change, Text response , Can you describe in your own words any changes in your attitudes or beliefs as a result of the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Attitude Change, Numerical , How many changes in your attitudes or beliefs have you experienced as a result of the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Attitude Change, Single-select , How would you rate the impact of the coaching/teaching on your attitudes or beliefs?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+" Coach, Teacher, or Volunteer", Students/Participants, Attitude Change, Yes or no , Have you experienced any changes in your attitudes or beliefs as a result of the coaching/teaching?," Yes, No"
+" Coach, Teacher, or Volunteer", Students/Participants, Attitude Change, Date, When did you first start experiencing changes in your attitudes or beliefs as a result of the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Attitude Change, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of the coaching/teaching for changing your attitudes or beliefs?", 1-10
+" Coach, Teacher, or Volunteer", Students/Participants, Behavior Change, Text response , Can you describe in your own words any changes in your behavior as a result of the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Behavior Change, Numerical , How many changes in your behavior have you experienced as a result of the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Behavior Change, Single-select , How would you rate the impact of the coaching/teaching on your behavior?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+" Coach, Teacher, or Volunteer", Students/Participants, Behavior Change, Yes or no , Have you experienced any changes in your behavior as a result of the coaching/teaching?," Yes, No"
+" Coach, Teacher, or Volunteer", Students/Participants, Behavior Change, Date, When did you first start experiencing changes in your behavior as a result of the coaching/teaching?,
+" Coach, Teacher, or Volunteer", Students/Participants, Behavior Change, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of the coaching/teaching for changing your behavior?", 1-10
+ Education Organisation, Students, Learning Outcomes , Text response , Can you describe in your own words the learning outcomes you have achieved through our educational program?,
+ Education Organisation, Students, Learning Outcomes , Numerical , How many learning outcomes have you achieved through our educational program?,
+ Education Organisation, Students, Learning Outcomes , Single-select , How would you rate the impact of our educational program on your learning outcomes?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Education Organisation, Students, Learning Outcomes , Yes or no , Have you achieved any learning outcomes through our educational program?," Yes, No"
+ Education Organisation, Students, Learning Outcomes , Date, When did you first start achieving learning outcomes through our educational program?,
+ Education Organisation, Students, Learning Outcomes , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our educational program for your learning outcomes?", 1-10
+ Education Organisation, Students, Skill Development , Text response , Can you describe in your own words how our educational program has helped in your skill development?,
+ Education Organisation, Students, Skill Development , Numerical , How many new skills have you developed through our educational program? ,
+ Education Organisation, Students, Skill Development , Single-select , How would you rate the impact of our educational program on your skill development?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Education Organisation, Students, Skill Development , Yes or no , Has our educational program contributed to your skill development? ," Yes, No"
+ Education Organisation, Students, Skill Development , Date, When did you first start developing new skills through our educational program? ,
+ Education Organisation, Students, Skill Development , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our educational program for your skill development?", 1-10
+ Education Organisation, Students, Knowledge Acquisition , Text response , Can you describe in your own words how our educational program has helped in your knowledge acquisition?,
+ Education Organisation, Students, Knowledge Acquisition , Numerical , How much new knowledge have you acquired through our educational program?,
+ Education Organisation, Students, Knowledge Acquisition , Single-select , How would you rate the impact of our educational program on your knowledge acquisition?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Education Organisation, Students, Knowledge Acquisition , Yes or no , Has our educational program contributed to your knowledge acquisition?," Yes, No"
+ Education Organisation, Students, Knowledge Acquisition , Date, When did you first start acquiring new knowledge through our educational program?,
+ Education Organisation, Students, Knowledge Acquisition , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our educational program for your knowledge acquisition?", 1-10
+ Education Organisation, Students, Attitude towards learning , Text response , Can you describe in your own words any changes in your attitude towards learning as a result of our educational program? ,
+ Education Organisation, Students, Attitude towards learning , Numerical , How many changes in your attitude towards learning have you experienced as a result of our educational program?,
+ Education Organisation, Students, Attitude towards learning , Single-select , How would you rate the impact of our educational program on your attitude towards learning? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Education Organisation, Students, Attitude towards learning , Yes or no , Have you experienced any changes in your attitude towards learning as a result of our educational program?," Yes, No"
+ Education Organisation, Students, Attitude towards learning , Date, When did you first start experiencing changes in your attitude towards learning as a result of our educational program?,
+ Education Organisation, Students, Attitude towards learning , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our educational program for changing your attitude towards learning? ", 1-10
+ Assessment Organisation, Client Organizations , Organizational Improvement , Text response , Can you describe in your own words any improvements in your organization as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Organizational Improvement , Numerical , How many improvements in your organization have you observed as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Organizational Improvement , Single-select , How would you rate the impact of our assessment on your organization's improvement? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Assessment Organisation, Client Organizations , Organizational Improvement , Yes or no , Have you observed any improvements in your organization as a result of our assessment? ," Yes, No"
+ Assessment Organisation, Client Organizations , Organizational Improvement , Date, When did you first start observing improvements in your organization as a result of our assessment? ,
+ Assessment Organisation, Client Organizations , Organizational Improvement , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our assessment for your organization's improvement? ", 1-10
+ Assessment Organisation, Client Organizations , Increased Efficiency, Text response , Can you describe in your own words any increases in efficiency in your organization as a result of our assessment? ,
+ Assessment Organisation, Client Organizations , Increased Efficiency, Numerical , How much increase in efficiency in your organization have you observed as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Increased Efficiency, Single-select , How would you rate the impact of our assessment on your organization's efficiency?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Assessment Organisation, Client Organizations , Increased Efficiency, Yes or no , Have you observed any increases in efficiency in your organization as a result of our assessment?," Yes, No"
+ Assessment Organisation, Client Organizations , Increased Efficiency, Date, When did you first start observing increases in efficiency in your organization as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Increased Efficiency, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our assessment for your organization's efficiency?", 1-10
+ Assessment Organisation, Client Organizations , Improved Decision Making, Text response , Can you describe in your own words any improvements in decision making in your organization as a result of our assessment? ,
+ Assessment Organisation, Client Organizations , Improved Decision Making, Numerical , How many improvements in decision making in your organization have you observed as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Improved Decision Making, Single-select , How would you rate the impact of our assessment on your organization's decision making? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Assessment Organisation, Client Organizations , Improved Decision Making, Yes or no , Have you observed any improvements in decision making in your organization as a result of our assessment?," Yes, No"
+ Assessment Organisation, Client Organizations , Improved Decision Making, Date, When did you first start observing improvements in decision making in your organization as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Improved Decision Making, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our assessment for your organization's decision making? ", 1-10
+ Assessment Organisation, Client Organizations , Enhanced Performance, Text response , Can you describe in your own words any enhancements in performance in your organization as a result of our assessment? ,
+ Assessment Organisation, Client Organizations , Enhanced Performance, Numerical , How many enhancements in performance in your organization have you observed as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Enhanced Performance, Single-select , How would you rate the impact of our assessment on your organization's performance? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Assessment Organisation, Client Organizations , Enhanced Performance, Yes or no , Have you observed any enhancements in performance in your organization as a result of our assessment?," Yes, No"
+ Assessment Organisation, Client Organizations , Enhanced Performance, Date, When did you first start observing enhancements in performance in your organization as a result of our assessment?,
+ Assessment Organisation, Client Organizations , Enhanced Performance, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of our assessment for your organization's performance? ", 1-10
+ Individual , Self, Personal Development, Text response , Can you describe in your own words any personal development you have achieved?,
+ Individual , Self, Personal Development, Numerical , How many personal development goals have you achieved?,
+ Individual , Self, Personal Development, Single-select , How would you rate the impact of your efforts on your personal development? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Individual , Self, Personal Development, Yes or no , Have you achieved any personal development goals?," Yes, No"
+ Individual , Self, Personal Development, Date, When did you first start achieving personal development goals?,
+ Individual , Self, Personal Development, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of your efforts for your personal development?", 1-10
+ Individual , Self, Skill Acquisition , Text response , Can you describe in your own words any new skills you have acquired? ,
+ Individual , Self, Skill Acquisition , Numerical , How many new skills have you acquired?,
+ Individual , Self, Skill Acquisition , Single-select , How would you rate the impact of your efforts on your skill acquisition? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Individual , Self, Skill Acquisition , Yes or no , Have you acquired any new skills?," Yes, No"
+ Individual , Self, Skill Acquisition , Date, When did you first start acquiring new skills?,
+ Individual , Self, Skill Acquisition , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of your efforts for your skill acquisition? ", 1-10
+ Individual , Self, Knowledge Acquisition , Text response , Can you describe in your own words any new knowledge you have acquired?,
+ Individual , Self, Knowledge Acquisition , Numerical , How much new knowledge have you acquired?,
+ Individual , Self, Knowledge Acquisition , Single-select , How would you rate the impact of your efforts on your knowledge acquisition? ," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Individual , Self, Knowledge Acquisition , Yes or no , Have you acquired any new knowledge? ," Yes, No"
+ Individual , Self, Knowledge Acquisition , Date, When did you first start acquiring new knowledge?,
+ Individual , Self, Knowledge Acquisition , Sliding scale ," On a scale of 1 to 10, how would you rate the importance of your efforts for your knowledge acquisition? ", 1-10
+ Individual , Self, Attitude Change, Text response , Can you describe in your own words any changes in your attitudes or beliefs? ,
+ Individual , Self, Attitude Change, Numerical , How many changes in your attitudes or beliefs have you experienced?,
+ Individual , Self, Attitude Change, Single-select , How would you rate the impact of your efforts on your attitudes or beliefs?," No impact, Minor impact, Moderate impact, Major impact, Transformative impact "
+ Individual , Self, Attitude Change, Yes or no , Have you experienced any changes in your attitudes or beliefs?," Yes, No"
+ Individual , Self, Attitude Change, Date, When did you first start experiencing changes in your attitudes or beliefs?,
+ Individual , Self, Attitude Change, Sliding scale ," On a scale of 1 to 10, how would you rate the importance of your efforts for changing your attitudes or beliefs? ", 1-10
