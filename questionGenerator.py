@@ -147,10 +147,10 @@ def get_stakeholders(db, domains):
     Returns:
         list: The list of selected stakeholders.
     """
-    #if domains:
-        #stakeValues = db.loc[db['Domain'].isin(domains), 'Stakeholder'].str.strip()
-    #else:
-        stakeValues = db['Stakeholder'].str.strip()
+    #    if domains:
+    #        stakeValues = db.loc[db['Domain'].isin(domains), 'Stakeholder'].str.strip()
+    #    else:
+    stakeValues = db['Stakeholder'].str.strip()
         
     stakeholders = stakeValues.unique()
     selected_stakeholders = st.multiselect("Stakeholder selection", stakeholders, placeholder="Click for options. Please note this is based on 'Domain' selection.")
