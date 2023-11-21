@@ -335,5 +335,5 @@ if __name__ == "__main__":
     main()
 
 "---"
-"==="
-st.text("Built by Saahil using Streamlit version: "+st.__version__)
+#"==="
+st.text("Built by Saahil, Fathom Performance 2023 using Streamlit version: "+st.__version__)
