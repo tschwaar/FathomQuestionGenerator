@@ -154,7 +154,8 @@ def get_stakeholders(db, domains):
     stakeValues = db['Stakeholder'].str.strip()
         
     stakeholders = stakeValues.unique()
-    selected_stakeholders = st.multiselect("Stakeholder selection", stakeholders, placeholder="Click for options. Please note this is based on 'Domain' selection.")
+    #selected_stakeholders = st.multiselect("Stakeholder selection", stakeholders, placeholder="Click for options. Please note this is based on 'Domain' selection.")
+    selected_stakeholders = st.multiselect("Stakeholder selection", stakeholders, placeholder="Click for options.")
     for stakeholder in selected_stakeholders:
         st.caption("_"+stakeholder+": "+stakeholder_descriptions[stakeholder]+"_")  # Display the description for the selected stakeholders
     return selected_stakeholders
