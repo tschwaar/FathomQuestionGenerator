@@ -208,7 +208,7 @@ def main():
     """
     The main function to run the application.
     """
-    st.image("Fathom-logo_With-text-1200x500px.png", use_column_width=True)
+    st.image("Fathom-logo_With-text-1200x500px.png", use_container_width=True)
     "---"
     st.markdown("<h1 style='text-align: center;'>Question Generator</h1>", unsafe_allow_html=True)
 
